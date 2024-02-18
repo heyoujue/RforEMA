@@ -4,7 +4,7 @@ Author: Youjue He(Peking University)
 
 email: heyoujue@stu.pku.edu.cn
 
-These are scripts for EMA data exported by Emalyse.
+These are scripts for EMA(Electromagnetic Midsagittal Articulography) data exported by Emalyse.
 
 You should set your sampling rate of EMA and the resampling rate in R script.
 
