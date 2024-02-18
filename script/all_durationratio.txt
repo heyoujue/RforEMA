@@ -1,0 +1,2 @@
+C:\Users\heyoujue\Documents\REMA\example\0012.wav	i	1.1628	1.4748	3.54
+C:\Users\heyoujue\Documents\REMA\example\0086.wav	a	1.65597	1.96013	4.2549375
