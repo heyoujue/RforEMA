@@ -1,6 +1,6 @@
 # 此脚本由 何友珏（北京大学2022级博士研究生）于2024年2月3日编写.
 # 功能：提取标注层的起点和终点时间，以及总时长。
-# 联系：使用中如遇任何问题可以电邮heyoujue@stu.pku.edu.cn联系脚本原作者。
+# 联系：使用中如遇任何问题可以电邮info[at]heyoujue.com联系脚本原作者。
 # 本脚本抄了王旭莹和张明辉的脚本的部分代码，拼凑修改而成。
 
 #This script was writen by Youjue He(Peking University)
@@ -62,4 +62,5 @@ for ifile to fileNum
 	select all
 	minus Strings list
 	Remove
+
 endfor
