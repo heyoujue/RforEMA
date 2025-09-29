@@ -1,5 +1,5 @@
-#本脚本由何友珏（heyoujue@stu.pku.edu.cn）编写，主要用于Emalyse导出的ema数据处理。
-#This script was writen by Youjue He(heyoujue@stu.pku.edu.cn), it is only applied to the EMA data exported by Emalyse.
+#本脚本由何友珏（info[at]heyoujue.com）编写，主要用于Emalyse导出的ema数据处理。
+#This script was writen by Youjue He(info[at]heyoujue.com), it is only applied to the EMA data exported by Emalyse.
 #请将wav TextGrid txt 放在同一文件夹下，且不能有其他文件。
 #make sure that wav TextGrid txt files have the same names and are in the same folders. The folders should not contain other txt files.
 
@@ -61,4 +61,5 @@ average<-ggplot(avei, aes(X,Z, group= V2, color = V2))+geom_point(size=3)+scale_
 
 
 ggsave("./script/average.png", dpi=600)
+
 
