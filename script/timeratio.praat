@@ -5,7 +5,7 @@
 
 #This script was writen by Youjue He(Peking University)
 #This script extracts the total duration and time point data of boundaries from certain tier. 
-#Advices and suggestions are welcomed to email me(heyoujue@stu.pku.edu.cn)
+#Advices and suggestions are welcomed to email me(info[at]heyoujue.com)
 #This script actually integrates lots of codes copied from scripts writen by Xuying Wang and Minghui Zhang.
 
 ! 执行这个程序,你需要在C盘temp文件夹下存放成对的[同名]TextGrid和Sound [单声道]文件.
@@ -64,3 +64,4 @@ for ifile to fileNum
 	Remove
 
 endfor
+
